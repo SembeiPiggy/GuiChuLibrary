@@ -1,5 +1,6 @@
 # GuiChuLibrary
 GuiChu is a kind of art. Starting from Japan, Rising from China!
+
 鬼畜图书馆项目，旨在为鬼畜视频制作者提供一个交流经验、共享资源的平台。
 
 这个项目将按照以下四个模块建档，每个模块会陆续添加相应的内容。
